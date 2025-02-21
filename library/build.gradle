@@ -50,17 +50,17 @@ dependencies {
     implementation 'com.wortise:android-sdk:1.6.1'
 
     //AdMob mediation
-    implementation 'com.google.ads.mediation:applovin:13.0.1.1'
-    implementation 'com.google.ads.mediation:unity:4.13.0.0'
-    implementation 'com.google.ads.mediation:ironsource:8.6.1.0'
+    implementation 'com.google.ads.mediation:applovin:13.1.0.0'
+    implementation 'com.google.ads.mediation:unity:4.13.1.0'
+    implementation 'com.google.ads.mediation:ironsource:8.7.0.0'
     implementation 'com.google.ads.mediation:facebook:6.18.0.0'
 
     //Applovin mediation
     implementation 'com.applovin.mediation:google-ad-manager-adapter:23.6.0.2'
-    implementation 'com.applovin.mediation:google-adapter:23.6.0.2'
-    implementation 'com.applovin.mediation:unityads-adapter:4.13.0.0'
-    implementation 'com.applovin.mediation:ironsource-adapter:8.6.1.0.0'
-    implementation 'com.applovin.mediation:facebook-adapter:6.18.0.1'
+    implementation 'com.applovin.mediation:google-adapter:23.6.0.3'
+    implementation 'com.applovin.mediation:unityads-adapter:4.13.1.1'
+    implementation 'com.applovin.mediation:ironsource-adapter:8.7.0.0.0'
+    implementation 'com.applovin.mediation:facebook-adapter:6.18.0.2'
 
     //ironSource mediation
     implementation 'com.ironsource.adapters:admobadapter:4.3.46'
